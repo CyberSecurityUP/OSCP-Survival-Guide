@@ -1,6 +1,4 @@
-# OSCP-Survival-Guide
-
-# OSCP Survival by Joas
+# OSCP Survival Guide by Joas
 
 ## Survival Guide
 
