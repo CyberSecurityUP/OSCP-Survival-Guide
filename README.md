@@ -173,32 +173,8 @@
 
 ### https://github.com/alexiasa/oscp-omnibus
 
-- Subtopic 1
 
 ### https://github.com/JoaoPauloF/OSCP
-
-## OSCP Reviews and Guides
-
-
-### Official OSCP Certification Exam Guide
-
-### Luke’s Ultimate OSCP Guide (Part 1, Part 2, Part 3)
-
-### How to prepare for PWK/OSCP, a noob-friendly guide
-
-### n3ko1's OSCP Guide
-
-### Jan's "Path to OSCP" Videos
-
-### Offensive Security’s PWB and OSCP - My Experience (+ some scripts)
-
-### OSCP Lab and Exam Review
-
-### OSCP Preparation Notes
-
-### A Detailed Guide on OSCP Preparation – From Newbie to OSCP
-
-### My Fight for OSCP
 
 ### https://steflan-security.com/my-oscp-journey/
 
